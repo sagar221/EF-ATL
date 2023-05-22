@@ -10,8 +10,4 @@ Git Assesment
 6. now merge all 3 commits to 1 commit with message “YOURNAME: merged all 3 commits “.
 7. raise PR to UAT again and assign/ask your admin to approve.
 
-
-
-
-
 ########################END########################################
