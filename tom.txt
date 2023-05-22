@@ -10,7 +10,11 @@ hello
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+Hi, rajesh added this line.
+>>>>>>> origin/feature/sushmana
 
 
 #This is First File
