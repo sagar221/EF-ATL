@@ -1,5 +1,5 @@
 # EF-ATL
-<<<<<<< HEAD
+HEAD
 Git Assesment
 #################Git Assesment###############################
 
@@ -12,7 +12,8 @@ Git Assesment
 7. raise PR to UAT again and assign/ask your admin to approve. 
 
 
-=======
+HEAD
+
 #################Git Assesment###############################
 1. create a “work” directory in home and clone repo 
 2. create a new branch with naming “feature/yourfirstname“ from “dev”
@@ -22,4 +23,6 @@ Git Assesment
 6. now merge all your commits to 1 commit with message “YOURNAME: merged all my commits “.
 7. raise PR to UAT again and assign/ask your admin to approve.
 >>>>>>> 45a39d38fabb46fac57b1efb6c8933c8d7a8e540
+=======
+>>>>>>> ba347e3 (Update README.md)
 ########################END########################################
