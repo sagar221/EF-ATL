@@ -1,5 +1,5 @@
 # EF-ATL
-Git Assesment
+
 #################Git Assesment###############################
 
 1. create a “work” directory in home and clone repo
@@ -9,6 +9,3 @@ Git Assesment
 5. pick latest commit from ABC123 branch.
 6. now merge all your commits to 1 commit with message “YOURNAME: merged all my commits “.
 7. raise PR to UAT again and assign/ask your admin to approve. 
-
-
-########################END########################################
