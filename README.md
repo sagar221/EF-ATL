@@ -21,5 +21,8 @@ Git Assesment
 7. raise PR to UAT again and assign/ask your admin to approve. 
 
 
+<<<<<<< HEAD
+>>>>>>> ba347e3 (Update README.md)
+=======
 >>>>>>> ba347e3 (Update README.md)
 ########################END########################################
