@@ -7,6 +7,7 @@
     "total_pages": 2,
     "data": [
         {
+            
             "id": 7,
             "email": "michael.lawson@reqres.in",
             "first_name": "Michael",
@@ -51,8 +52,8 @@
         {
             "id": 13,
             "email": "rachel.howell@reqres.in",
-            "first_name": "Rachel",
-            "last_name": "Howell",
+            "first_name": "vinay",
+            "last_name": "madhur",
             "avatar": "https://reqres.in/img/faces/12-image.jpg"
         }
     ],
