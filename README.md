@@ -1,8 +1,5 @@
 # EF-ATL
-HEAD
 
-Git Assesment
- origin/feature/dhana
 #################Git Assesment###############################
 
 1. create a “work” directory in home and clone repo
