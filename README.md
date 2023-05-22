@@ -23,6 +23,9 @@ Git Assesment
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ba347e3 (Update README.md)
+=======
 >>>>>>> ba347e3 (Update README.md)
 =======
 >>>>>>> ba347e3 (Update README.md)
