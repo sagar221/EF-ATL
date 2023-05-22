@@ -1,8 +1,13 @@
 #This is First File
 #Update your content below
 
+<<<<<<< HEAD
 RISHABH
 
+=======
+
+Hi, rajesh added this line.
+>>>>>>> 62bdcc1 (Merge branch 'uat' into ABC123)
 
 
 #This is First File

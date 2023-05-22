@@ -9,8 +9,13 @@
         {
             "id": 7,
             "email": "michael.lawson@reqres.in",
+<<<<<<< HEAD
             "first_name": "RISHABH",
             "last_name": "SHARMA",
+=======
+            "first_name": "Michael",
+            "last_name": "Lawson",
+>>>>>>> 62bdcc1 (Merge branch 'uat' into ABC123)
             "avatar": "https://reqres.in/img/faces/7-image.jpg"
         },
         {
