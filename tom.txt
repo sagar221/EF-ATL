@@ -1,11 +1,15 @@
 #This is First File
 #Update your content below
 
-<<<<<<< HEAD
-bhargav2
-=======
 
->>>>>>> 2d7f884 (Create tom.txt)
+bhargav2
+
+
+feature/bhargav1
+ 2d7f884 (Create tom.txt)
+
+
+Hi, rajesh added this line.
 
 
 
