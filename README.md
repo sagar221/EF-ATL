@@ -12,3 +12,6 @@ Git Assesment
 
 
 ########################END########################################
+1. create a “work” directory in home and clone repo
+2. create a new branch with naming “feature/yourfirstname“ from “dev”
+3. modify any 2 files and commit 
