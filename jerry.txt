@@ -3,9 +3,6 @@
 
 
 Hi, rajesh added this line.
-<<<<<<< HEAD
 
-=======
->>>>>>> 5f1286f (TASK: 1st change)
 
 Done - This is Second File.
